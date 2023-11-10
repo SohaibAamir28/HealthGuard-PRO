@@ -1,5 +1,5 @@
 <a href="https://chat.vercel.ai/">
-  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
+  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="[https://chat.vercel.ai/opengraph-image.png](https://cdn.discordapp.com/attachments/1172167483474591765/1172561886068342794/Health-removebg-preview.png?ex=6560c45a&is=654e4f5a&hm=f260a38757692b11603cfae47d4782926afff68e4656321f6214555cdd1bc17c&)">
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
 
